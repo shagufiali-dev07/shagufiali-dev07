@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Shagufi Ali! 👋
 
-<!--
-**shagufiali-dev07/shagufiali-dev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+Currently exploring programming, strengthening my fundamentals, and learning how to build software applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Learning
+
+- Python
+- C++
+- Data Structures & Algorithms
+- Git & GitHub
+
+---
+
+### 🎯 My Goals
+
+- Develop strong programming fundamentals.
+- Improve my problem-solving skills.
+- Build practical software projects.
+- Explore software development opportunities.
+- Work towards becoming a Software Development Engineer.
+
+---
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/shagufi-ali-5848253b2)
+
+---
+
+*Learning step by step, building along the way.* 🚀
