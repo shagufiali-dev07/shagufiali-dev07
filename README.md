@@ -27,7 +27,7 @@ Currently exploring programming, strengthening my fundamentals, and learning how
 
 ### 🤝 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/shagufi-ali-5848253b2)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shagufi-ali-5848253b2)
 
 ---
 
